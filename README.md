@@ -17,4 +17,4 @@ This project primarily uses Windows Batch (`.bat`) scripts. To run this on a non
 * **Alternative:** You can manually port the logic into a Shell script (`.sh`).
 
 ## License
-This project is licensed under the GNU GPLv3. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the GNU GPLv3. See the [LICENSE](LICENSE) file for details.
